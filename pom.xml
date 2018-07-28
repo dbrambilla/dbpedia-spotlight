@@ -340,7 +340,7 @@
             <dependency>
                 <groupId>jcs</groupId>
                 <artifactId>jcs</artifactId>
-                <version>1.3</version>
+                <version>20030822.182132</version>
                 <exclusions>
                     <exclusion>
                         <groupId>xerces</groupId>
@@ -672,7 +672,7 @@
             <dependency>
                 <groupId>org.apache.opennlp</groupId>
                 <artifactId>opennlp-tools</artifactId>
-                <version>1.5.3</version>
+                <version>1.8.2</version>
                 <!--
                      License: Apache Software License, Version 2.0
                  -->
