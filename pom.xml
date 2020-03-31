@@ -478,7 +478,7 @@
             <dependency>
                 <groupId>commons-codec</groupId>
                 <artifactId>commons-codec</artifactId>
-                <version>1.6</version>
+                <version>1.13</version>
                 <!--
                     License: Apache Software License, Version 2.0
                 -->
