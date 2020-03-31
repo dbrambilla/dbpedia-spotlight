@@ -340,7 +340,7 @@
             <dependency>
                 <groupId>jcs</groupId>
                 <artifactId>jcs</artifactId>
-                <version>1.3</version>
+                <version>20030822.182132</version>
                 <exclusions>
                     <exclusion>
                         <groupId>xerces</groupId>
