@@ -322,7 +322,7 @@
             <dependency>
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
-                <version>r07</version>
+                <version>30.0-android</version>
                 <!--
                   License: Apache Software License, Version 2.0
                 -->
